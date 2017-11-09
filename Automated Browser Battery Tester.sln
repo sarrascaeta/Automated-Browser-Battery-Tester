@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Automated Browser Battery Tester", "Automated Browser Battery Tester\Automated Browser Battery Tester.csproj", "{26E40E32-296C-48FE-9B6E-DC2875077DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automated Browser Battery Tester Tests", "ABBT Tests\Automated Browser Battery Tester Tests.csproj", "{0984C201-8B8D-4E13-9292-8F9E810942F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E40E32-296C-48FE-9B6E-DC2875077DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E40E32-296C-48FE-9B6E-DC2875077DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E40E32-296C-48FE-9B6E-DC2875077DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E40E32-296C-48FE-9B6E-DC2875077DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0984C201-8B8D-4E13-9292-8F9E810942F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0984C201-8B8D-4E13-9292-8F9E810942F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0984C201-8B8D-4E13-9292-8F9E810942F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0984C201-8B8D-4E13-9292-8F9E810942F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E8859B3-3631-4B08-BCF6-3DD30D2BF43B}
+	EndGlobalSection
+EndGlobal
